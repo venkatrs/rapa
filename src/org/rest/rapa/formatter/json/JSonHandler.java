@@ -1,8 +1,8 @@
 package org.rest.rapa.formatter.json;
 
-import org.json.me.JSONException;
-import org.json.me.JSONObject;
-import org.json.me.util.XML;
+import org.json.JSONException;
+import org.json.JSONObject;
+import org.json.XML;
 import org.rest.rapa.formatter.FormatHandler;
 import org.rest.rapa.formatter.JAXB.XMLHandler;
 import org.rest.rapa.resource.Resource;

@@ -2,7 +2,7 @@ package org.rest.rapa.formatter.json;
 
 import static junit.framework.Assert.assertEquals;
 import static org.junit.Assert.*;
-import org.json.me.JSONException;
+import org.json.JSONException;
 import org.junit.Before;
 import org.junit.Test;
 import org.rest.rapa.resource.Resource;
